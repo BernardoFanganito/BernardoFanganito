@@ -38,5 +38,5 @@ Desenvolvido do zero com React Native e Expo. Notificações locais agendadas, p
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardofanganito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardo-fanganito-7032191b2)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/BernardoFanganito)
