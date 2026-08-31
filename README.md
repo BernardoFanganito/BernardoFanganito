@@ -1,4 +1,4 @@
-# Olá, eu sou o Bernardo Fanganito 👋
+# Olá, sou Bernardo Fanganito 👋
 
 Analista de Suporte L1 na **Bling ERP**, apaixonado por automatizar processos e resolver problemas reais com código.
 
